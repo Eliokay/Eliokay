@@ -70,4 +70,4 @@ I'm currently exploring opportunities in:
 
 I'm always happy to connect about **data, machine learning, research, interesting engineering problems, or potential opportunities**.
 
-[LinkedIn](YOUR-LINKEDIN-URL) · [Portfolio](YOUR-PORTFOLIO-URL) · [Email](mailto:YOUR-EMAIL)
+[LinkedIn]([(https://www.linkedin.com/in/elohookoloko/)]) · [Portfolio](YOUR-PORTFOLIO-URL) · [Email](mailto:okolokoeloho@gmail.com)
